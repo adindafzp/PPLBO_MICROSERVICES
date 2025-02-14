@@ -1,0 +1,7 @@
+inventory-service/docker/mysql/data/
+*.log
+*.sock
+
+order-service/docker/mysql/data/
+*.log
+*.sock
