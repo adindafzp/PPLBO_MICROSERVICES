@@ -5,3 +5,5 @@ inventory-service/docker/mysql/data/
 order-service/docker/mysql/data/
 *.log
 *.sock
+
+product-service/data/journal/
